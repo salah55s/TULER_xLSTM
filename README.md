@@ -12,5 +12,5 @@ It's still early days, but I'm excited about the potential of this brain-inspire
 
 For those new to xLSTM or mLSTM, check out the original paper: 👉👉https://lnkd.in/d8X88sfv
 
-![alt text](https://github.com/salah55s/TULER_xLSTM//Artboard2@4x.png?raw=true)
-![alt text](https://github.com/salah55s/TULER_xLSTM//Artboard5@4x.png?raw=true)
+![alt text](https://github.com/salah55s/TULER_xLSTM//Artboard2@4x.png)
+![alt text](https://github.com/salah55s/TULER_xLSTM//Artboard5@4x.png)
